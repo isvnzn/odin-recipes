@@ -1,0 +1,42 @@
+.heading {
+  color: #000;
+  font-size: 20px;
+  width: fit-content;
+}
+
+.heading.main {
+  font-size: 30px;
+}
+
+.food-img {
+  width: 300px;
+  height: auto;
+}
+
+.back,
+.heading,
+.description,
+.ingredients,
+.steps {
+  font-family: "Source Sans Pro", "Verdana", sans-serif;
+}
+
+.back,
+.description,
+.ingredients,
+.steps {
+  color: #000;
+  font-size: 16px;
+}
+
+.ingredients .item,
+.steps .item {
+  padding: 4px 0;
+}
+
+.back {
+  text-decoration: none;
+  display: inline-block;
+  background: #fffeb6;
+  padding: 4px 20px;
+}
