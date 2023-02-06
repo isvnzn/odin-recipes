@@ -3,6 +3,11 @@
   margin-left: 40px;
 }
 
+.heading,
+.recipes {
+  font-family: "Source Sans Pro", "Verdana", sans-serif;
+}
+
 .recipes .item {
   list-style: none;
   margin: 10px 0;
