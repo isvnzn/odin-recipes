@@ -13,3 +13,7 @@ In Odin recipes, you find food recipes you can prepare at home, along with ingre
 * Usage of heading level 1 and title element every webpage
 
 - Structuring files
+
+* Usage of multiple classes, grouping and chaining selectors.
+
+- Linking stylesheets and adding styles
